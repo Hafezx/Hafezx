@@ -2,7 +2,7 @@
 
 **Software Engineer | Developer at Heart | Building Backends, Exploring AI | Payments, Finance & Maths Along the Way**
 
-I’m a Python backend and full-stack engineer based in the Netherlands, with 10+ years of experience building cloud services, APIs and distributed applications. My work spans developer tooling, payment integrations and products that use AI.
+I’m a software engineer based in the Netherlands. I build Python backends, APIs and payment integrations, and enjoy exploring AI, finance and mathematics.
 
 Most of my recent professional work is private. This profile summarizes that experience alongside the public samples and experiments in my repositories.
 
