@@ -1,6 +1,6 @@
 # Hafez Damanpak
 
-Python backend and full-stack engineer based in Haarlem, Netherlands, with 9+ years of experience building cloud services, APIs and distributed applications. My work spans developer tooling, payment integrations and products that use AI.
+Python backend and full-stack engineer based in Netherlands, with 10+ years of experience building cloud services, APIs and distributed applications. My work spans developer tooling, payment integrations and products that use AI.
 
 Most of my recent professional work is private. This profile summarizes that experience alongside the public samples and experiments in my repositories.
 
@@ -27,4 +27,4 @@ Earlier work includes distributed video platforms, a social messaging service an
 **Data and frontend:** PostgreSQL, MongoDB, Redis, Vue.js  
 **Quality:** Regression testing, TDD, CI/CD and dependency security
 
-[LinkedIn](https://www.linkedin.com/in/manhafi/) · [THEONEHUNDRED](https://theonehundred.uk/)
+[LinkedIn](https://www.linkedin.com/in/manhafi/)
