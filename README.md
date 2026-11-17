@@ -6,6 +6,10 @@ I’m a software engineer based in the Netherlands. I build Python backends, API
 
 Most of my recent professional work is private. This profile summarizes that experience alongside the public samples and experiments in my repositories.
 
+## CaseRoom
+
+[CaseRoom](https://github.com/Hafezx/caseroom) is an independent ElevenLabs voice AI project for fictional client-interview practice. Its Python/FastAPI backend issues signed URLs for a private agent, while the Vue frontend handles live conversations, transcripts and post-call reflection. I tested a real browser session and added backend/frontend CI. The repository includes the code and a screenshot.
+
 ## THEONEHUNDRED
 
 I built [THEONEHUNDRED](https://theonehundred.uk/), a live SQE exam-preparation platform, end to end as a **part-time project**.
@@ -28,5 +32,7 @@ Earlier work includes distributed video platforms, a social messaging service an
 **Cloud and delivery:** AWS, Kubernetes, Docker, Terraform, Azure DevOps  
 **Data and frontend:** PostgreSQL, MongoDB, Redis, Vue.js  
 **Quality:** Regression testing, TDD, CI/CD and dependency security
+
+**AI integrations:** ElevenLabs Agents, OpenAI API, voice applications
 
 [LinkedIn](https://www.linkedin.com/in/manhafi/)
